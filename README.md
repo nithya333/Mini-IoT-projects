@@ -2,6 +2,7 @@
 This repository contains a series of mini projects based on the Internet of Things (IoT). These projects utilize various hardware sensors, actuators, ESP32, Arduino IDE, sensors, and cloud services like Firebase Realtime Database, ThingSpeak, and Blynk. The projects also feature web and mobile apps developed with tools such as Streamlit, Blynk, and MIT App Inventor. Below are the descriptions of the various projects included:
 
 1. Smart Lighting System
+   
 Objective: To save energy by adjusting lighting based on ambient conditions.
 
 Modes:
@@ -11,6 +12,7 @@ Manual Mode: Allows users to manually control the lighting. The user can turn th
 
 
 2. Intrusion Detection System (IDS)
+   
 Objective: Enhance security in homes, offices, and warehouses by detecting unauthorized movements.
 
 Working Principle:
@@ -20,6 +22,7 @@ When a person or object passes within the sensor's detection range, it triggers 
 
 
 3. Smart Parking System
+   
 Objective: To help drivers find available parking spaces efficiently.
 
 Working Principle:
@@ -30,6 +33,7 @@ The app provides parking guidance and monitoring to reduce traffic congestion an
 
 
 4. IoT-Based Weather Monitoring System
+   
 Objective: To monitor weather conditions using IoT sensors and analyze data through cloud applications.
 
 Working Principle:
@@ -40,6 +44,7 @@ Users can view real-time weather data and receive weather alerts.
 
 
 5. Smart Irrigation System
+   
 Objective: To optimize water usage for agriculture by automatically adjusting irrigation based on soil moisture levels.
 
 Working Principle:
@@ -50,6 +55,7 @@ Data is sent to the cloud, where it is analyzed to optimize irrigation schedules
 
 
 6. Forest Fire Detection System
+   
 Objective: To detect and alert about forest fires at an early stage, helping to minimize damage.
 
 Working Principle:
